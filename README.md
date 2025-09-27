@@ -96,17 +96,6 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsingh762&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniketsingh762)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
-
 ## 💡 Why Work With Me?
 
 ✅ **Quality Code**: Clean, maintainable, and well-documented code  
