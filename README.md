@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Aniket Singh
-
+# Hi there! 👋 I'm Anikiet Singh
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%7C+React+%7C+Laravel;WordPress+%7C+PHP+%7C+Node.js;Building+Digital+Solutions;Always+Learning+New+Tech)](https://git.io/typing-svg)
@@ -53,17 +52,17 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketsingh762&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh762&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh762&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketsingh762&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 ## 💼 Services I Offer
@@ -92,32 +91,9 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 - CI/CD pipeline setup
 - Server management and monitoring
 
-## 🎯 Featured Projects
-
-### 🔥 **E-Commerce Platform**
-**Tech Stack:** React, Laravel, MySQL, Stripe
-- Full-featured online store with payment integration
-- Admin dashboard with analytics
-- Mobile-responsive design
-- [View Project →](https://github.com/yourusername/ecommerce-platform)
-
-### 📱 **Task Management App**
-**Tech Stack:** Python, Django, PostgreSQL, React
-- Real-time collaboration features
-- RESTful API architecture
-- User authentication and authorization
-- [View Project →](https://github.com/yourusername/task-manager)
-
-### 🌟 **WordPress Multi-Site Network**
-**Tech Stack:** WordPress, PHP, MySQL, Custom Plugins
-- Multi-tenant architecture
-- Custom plugin development
-- Performance optimization
-- [View Project →](https://github.com/yourusername/wp-multisite)
-
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsingh762&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🤝 Let's Connect & Collaborate
@@ -126,7 +102,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniketsingh762)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
@@ -167,8 +143,8 @@ Other        18 mins         ░░░░░░░░░░░░░░░░░
 **⭐ Star my repositories if you find them helpful!**  
 **🤝 Open to collaborating on interesting projects**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/YourUsername?style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=aniketsingh762&style=for-the-badge&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/aniketsingh762?style=for-the-badge&color=blue)
 
 </div>
 
