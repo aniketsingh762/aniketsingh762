@@ -56,24 +56,6 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 ![Flutter Test](https://img.shields.io/badge/Flutter_Test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Integration Tests](https://img.shields.io/badge/Integration_Tests-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketsingh762&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsingh762&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aniketsingh762&theme=tokyonight"/>
-</div>
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketsingh762&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8&no-frame=true"/>
-</div>
-
-
 ## 💼 Services I Offer
 
 ### 📱 **Cross-Platform App Development**
