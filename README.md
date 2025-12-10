@@ -1,53 +1,60 @@
 # Hi there! 👋 I'm Anikiet Singh
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%7C+React+%7C+Laravel;WordPress+%7C+PHP+%7C+Node.js;Building+Digital+Solutions;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Mobile+Developer;Cross-Platform+App+Specialist;Dart+%7C+Flutter+%7C+Firebase;Building+Beautiful+Mobile+Apps;Creating+Seamless+User+Experiences)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in modern web technologies. I love creating efficient, scalable solutions that bridge the gap between stunning frontend experiences and robust backend architectures.
+I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful, performant cross-platform applications. I craft native-quality mobile experiences that run seamlessly on both iOS and Android with a single codebase.
 
-- 🔭 Currently working on **innovative web applications**
-- 🌱 Learning **cloud technologies and AI integration**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **Python, React, Laravel, WordPress**
-- ⚡ Fun fact: **I debug with coffee and solve problems with code**
+- 🔭 Currently building **innovative mobile applications with Flutter**
+- 🌱 Learning **advanced state management and mobile architecture patterns**
+- 👯 Looking to collaborate on **open source Flutter projects**
+- 💬 Ask me about **Flutter, Dart, Firebase, Mobile UI/UX**
+- ⚡ Fun fact: **I turn coffee into beautiful mobile apps**
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### State Management & Architecture
+![Bloc](https://img.shields.io/badge/Bloc-00D9FF?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### CMS & Frameworks
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF6600?style=for-the-badge&logo=flutter&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Testing & Quality
+![Flutter Test](https://img.shields.io/badge/Flutter_Test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Integration Tests](https://img.shields.io/badge/Integration_Tests-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📊 GitHub Analytics
 
@@ -67,29 +74,47 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ## 💼 Services I Offer
 
-### 🎨 **Frontend Development**
-- Modern React applications with hooks and context
-- Responsive web design with mobile-first approach
-- Interactive UI/UX with smooth animations
-- Performance optimization and SEO
+### 📱 **Cross-Platform App Development**
+- Native-quality iOS and Android apps with Flutter
+- Custom animations and smooth transitions
+- Responsive layouts for all screen sizes
+- Material Design and Cupertino widgets
+- Dark mode and theme customization
 
-### ⚙️ **Backend Development**
-- RESTful APIs with Python/Django/FastAPI
-- PHP/Laravel applications with MVC architecture
-- Node.js server-side applications
-- Database design and optimization
+### 🎨 **UI/UX Implementation**
+- Pixel-perfect design implementation from Figma/XD
+- Custom widgets and reusable components
+- Complex animations with Flutter AnimationController
+- Beautiful onboarding experiences
+- Intuitive navigation patterns
 
-### 🌐 **WordPress Solutions**
-- Custom theme development
-- Plugin development and customization
-- WooCommerce e-commerce solutions
-- Website optimization and security
+### ⚙️ **Backend Integration**
+- REST API integration with Dio/HTTP packages
+- Firebase services (Auth, Firestore, Storage, Cloud Functions)
+- Real-time data synchronization
+- Push notifications (FCM, OneSignal)
+- Payment gateway integration (Stripe, Razorpay, PayPal)
 
-### ☁️ **DevOps & Deployment**
-- Docker containerization
-- AWS cloud deployment
-- CI/CD pipeline setup
-- Server management and monitoring
+### 🔧 **State Management & Architecture**
+- BLoC pattern for scalable apps
+- Provider and Riverpod implementations
+- GetX for rapid development
+- Clean Architecture principles
+- MVVM and MVC patterns
+
+### 🚀 **App Deployment & Maintenance**
+- App Store and Play Store publishing
+- CI/CD setup with GitHub Actions/Fastlane
+- App performance optimization
+- Bug fixes and feature updates
+- Version management and release cycles
+
+### 🧪 **Testing & Quality Assurance**
+- Unit testing with Flutter Test
+- Widget testing for UI components
+- Integration testing
+- Code coverage analysis
+- Performance profiling
 
 ## 📈 Activity Graph
 <div align="center">
@@ -98,39 +123,52 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ## 💡 Why Work With Me?
 
-✅ **Quality Code**: Clean, maintainable, and well-documented code  
-✅ **On-Time Delivery**: Meeting deadlines with reliable communication  
-✅ **Problem Solver**: Finding efficient solutions to complex challenges  
-✅ **Continuous Learning**: Staying updated with latest technologies  
-✅ **Client-Focused**: Understanding business needs and delivering value  
+✅ **Cross-Platform Expertise**: Build once, deploy everywhere  
+✅ **Beautiful UI**: Pixel-perfect designs with smooth animations  
+✅ **Performance Optimized**: 60 FPS scrolling and instant load times  
+✅ **Clean Code**: Following Flutter best practices and conventions  
+✅ **Fast Delivery**: Rapid development with Flutter's hot reload  
+✅ **App Store Ready**: Handle entire deployment process  
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 15 mins   ████████████░░░░░░░░░   48.2%
-JavaScript   4 hrs 30 mins   ██████░░░░░░░░░░░░░░░   26.3%
-PHP          2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   16.1%
-CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░    7.8%
-Other        18 mins         ░░░░░░░░░░░░░░░░░░░░░    1.6%
+Dart         12 hrs 30 mins  ████████████████░░░░░   58.7%
+Flutter      6 hrs 45 mins   ████████░░░░░░░░░░░░░   31.6%
+YAML         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░    5.9%
+JSON         35 mins         ░░░░░░░░░░░░░░░░░░░░░    2.7%
+Other        14 mins         ░░░░░░░░░░░░░░░░░░░░░    1.1%
 ```
 <!--END_SECTION:waka-->
 
+## 🎯 Flutter Specializations
+
+- 📱 E-commerce mobile applications
+- 💬 Chat and social media apps with real-time features
+- 🏥 Healthcare and fitness tracking apps
+- 📊 Business and productivity tools
+- 🎮 Casual mobile games
+- 🎓 Educational and e-learning platforms
+- 🍔 Food delivery and restaurant apps
+- 🏦 Fintech and banking applications
+
 ## 🎲 Fun Facts About Me
 
-- 🎵 I code better with music (preferably lo-fi beats)
-- 🧩 Love solving complex algorithms and puzzles
-- 📚 Always reading tech blogs and documentation
-- ☕ Coffee enthusiast (fuel for coding sessions)
-- 🎮 Gaming helps me think creatively about user experience
+- 🎨 I love creating smooth animations that delight users
+- 📱 Always testing apps on both iOS and Android devices
+- 🔥 Firebase is my go-to for rapid app development
+- 📚 Constantly exploring new Flutter packages and plugins
+- ☕ Hot reload + coffee = perfect coding combo
+- 🌈 Obsessed with Material You and modern design trends
 
 ---
 
 <div align="center">
 
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "Flutter: Beautiful native apps in record time." ✨
 
 **⭐ Star my repositories if you find them helpful!**  
-**🤝 Open to collaborating on interesting projects**
+**🤝 Open to collaborating on Flutter projects**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aniketsingh762&style=for-the-badge&color=brightgreen)
 ![Followers](https://img.shields.io/github/followers/aniketsingh762?style=for-the-badge&color=blue)
