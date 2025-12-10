@@ -67,23 +67,6 @@ I build **native-quality Flutter apps** that ship fast on both iOS and Android. 
 - **Product velocity**: hot reload + CI/CD for fast, safe releases
 - **Firebase-first**: auth, data sync, push, and functions wired end-to-end
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketsingh762&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Anikiet Singh GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh762&layout=compact&langs_count=7&theme=tokyonight" alt="Anikiet Singh top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aniketsingh762&theme=tokyonight" alt="GitHub streak stats for aniketsingh762"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketsingh762&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub trophies for aniketsingh762"/>
-</div>
-
 ## 💼 Services I Offer
 
 ### 📱 **Cross-Platform App Development**
