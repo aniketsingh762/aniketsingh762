@@ -1,23 +1,22 @@
 # Hi there! 👋 I'm Anikiet Singh
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Mobile+Developer;Cross-Platform+App+Specialist;Dart+%7C+Flutter+%7C+Firebase;Building+Beautiful+Mobile+Apps;Creating+Seamless+User+Experiences)](https://git.io/typing-svg)
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Mobile+Developer;Cross-Platform+App+Specialist;Dart+%7C+Flutter+%7C+Firebase;Building+Beautiful+Mobile+Apps;Creating+Seamless+User+Experiences" alt="Flutter Mobile Developer typing banner"/>
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful, performant cross-platform applications. I craft native-quality mobile experiences that run seamlessly on both iOS and Android with a single codebase.
+I build **native-quality Flutter apps** that ship fast on both iOS and Android. My focus: performant UI, smooth animations, and clean architecture that scales.
 
-- 🔭 Currently building **innovative mobile applications with Flutter**
-- 🌱 Learning **advanced state management and mobile architecture patterns**
-- 👯 Looking to collaborate on **open source Flutter projects**
-- 💬 Ask me about **Flutter, Dart, Firebase, Mobile UI/UX**
-- ⚡ Fun fact: **I turn coffee into beautiful mobile apps**
+- 🔭 Currently: shipping production-ready Flutter apps with robust CI/CD
+- 🌱 Deep-diving into **advanced state management** and **mobile architecture**
+- 🤝 Open to collaborating on **open source Flutter projects**
+- 💬 Ask me about **Flutter, Dart, Firebase, mobile UI/UX**
 
 ## 🛠️ Tech Stack
 
 ### Mobile Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -25,12 +24,14 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### State Management & Architecture
+
 ![Bloc](https://img.shields.io/badge/Bloc-00D9FF?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend & Services
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,6 +40,7 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Databases
+
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FF6600?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -46,6 +48,7 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
@@ -53,19 +56,44 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Testing & Quality
+
 ![Flutter Test](https://img.shields.io/badge/Flutter_Test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Integration Tests](https://img.shields.io/badge/Integration_Tests-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## 🧠 What I’m Great At
+
+- **Cross-platform polish**: native-feel experiences with custom animations
+- **Clean architecture**: BLoC, Riverpod, and layered patterns for scale
+- **Product velocity**: hot reload + CI/CD for fast, safe releases
+- **Firebase-first**: auth, data sync, push, and functions wired end-to-end
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketsingh762&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Anikiet Singh GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh762&layout=compact&langs_count=7&theme=tokyonight" alt="Anikiet Singh top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aniketsingh762&theme=tokyonight" alt="GitHub streak stats for aniketsingh762"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketsingh762&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub trophies for aniketsingh762"/>
+</div>
 
 ## 💼 Services I Offer
 
 ### 📱 **Cross-Platform App Development**
-- Native-quality iOS and Android apps with Flutter
-- Custom animations and smooth transitions
-- Responsive layouts for all screen sizes
-- Material Design and Cupertino widgets
-- Dark mode and theme customization
+
+- Native-quality iOS and Android with Flutter
+- Custom animations, smooth transitions, and responsive layouts
+- Material and Cupertino design systems with theme customizations
 
 ### 🎨 **UI/UX Implementation**
+
 - Pixel-perfect design implementation from Figma/XD
 - Custom widgets and reusable components
 - Complex animations with Flutter AnimationController
@@ -73,6 +101,7 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 - Intuitive navigation patterns
 
 ### ⚙️ **Backend Integration**
+
 - REST API integration with Dio/HTTP packages
 - Firebase services (Auth, Firestore, Storage, Cloud Functions)
 - Real-time data synchronization
@@ -80,6 +109,7 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 - Payment gateway integration (Stripe, Razorpay, PayPal)
 
 ### 🔧 **State Management & Architecture**
+
 - BLoC pattern for scalable apps
 - Provider and Riverpod implementations
 - GetX for rapid development
@@ -87,6 +117,7 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 - MVVM and MVC patterns
 
 ### 🚀 **App Deployment & Maintenance**
+
 - App Store and Play Store publishing
 - CI/CD setup with GitHub Actions/Fastlane
 - App performance optimization
@@ -94,6 +125,7 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 - Version management and release cycles
 
 ### 🧪 **Testing & Quality Assurance**
+
 - Unit testing with Flutter Test
 - Widget testing for UI components
 - Integration testing
@@ -101,8 +133,9 @@ I'm a passionate **Flutter Mobile Developer** specializing in creating beautiful
 - Performance profiling
 
 ## 📈 Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsingh762&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsingh762&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" alt="GitHub activity graph for aniketsingh762"/>
 </div>
 
 ## 💡 Why Work With Me?
@@ -162,5 +195,5 @@ Other        14 mins         ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" alt="Flutter development animated illustration"/>
 </div>
